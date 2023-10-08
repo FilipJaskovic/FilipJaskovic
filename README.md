@@ -108,6 +108,7 @@
 
 ###
 
+<br clear="both">
 <h2 align="left">🐍 My Contributions 🐍</h2>
 
 ###
