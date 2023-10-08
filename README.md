@@ -116,7 +116,7 @@
 
 ###
 
-<br clear="both">
+
 
 <picture>
   <source
