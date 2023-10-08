@@ -5,7 +5,7 @@
 </h1>
 
 <h4 align="left">About me</h4>
-<p align="left">- 🔭 I’m currently working on a paper<br>- 🌱 I’m currently learning string theory<br>- 💬 Ask me about Mathematics, Physics, Ai or Programming<br>- ⚡ Fun fact: The sum of the series $$\zeta(-1) = \sum_{n=1}^{\infty} \frac{1}{n^{-1}} = \sum_{n=1}^{\infty} n\ = 1 + 2 + 3 + 4 + \dots$$ is controversially assigned the value of $-\frac{1}{12}$. This result, while seeming counterintuitive, arises in certain areas of advanced mathematics, like string theory and quantum physics and has deep implications in the realm of analytic continuation and regularization techniques. It's a special regularization of the series, not a sum in the traditional sense! </p>
+<p align="left">- 🔭 I’m currently working on a paper<br>- 🌱 I’m currently learning string theory<br>- 💬 Ask me about Mathematics, Physics, Ai or Programming<br>- ⚡ Fun fact: $$\zeta(-1) = \sum_{n=1}^{\infty} \frac{1}{n^{-1}} = \sum_{n=1}^{\infty} n\ = 1 + 2 + 3 + 4 + \dots = -\frac{1}{12}$$ </p>
 
 ###
 
