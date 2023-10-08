@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Filip+Jaskovic!;" />
 </h1>
 
-<h4 align="left">About me</h4>
+<h3 align="left">About me</h3>
 <p align="left">- 🔭 I’m currently working on a paper<br>- 🌱 I’m currently learning string theory<br>- 💬 Ask me about Mathematics, Physics, Ai or Programming<br>- ⚡ Fun fact: $$\zeta(-1) = \sum_{n=1}^{\infty} \frac{1}{n^{-1}} = \sum_{n=1}^{\infty} n\ = 1 + 2 + 3 + 4 + \dots = -\frac{1}{12}$$ </p>
 
 ###
@@ -108,7 +108,7 @@
 
 ###
 
-<br clear="both">
+
 <h2 align="left">🐍 My Contributions 🐍</h2>
 
 ###
