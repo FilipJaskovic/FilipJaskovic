@@ -93,7 +93,7 @@
   <a href="https://www.linkedin.com/in/filip-ja%C5%A1kovi%C4%8D-068646201?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByLToFT2iTZC%2BRiUtwneNtw%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="filip.jaskovic@gmail.com" target="_blank">
+  <a href=mailto:"filip.jaskovic@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://codepen.io/bubo94" target="_blank">
@@ -115,7 +115,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/FilipJaskovic/FilipJaskovic/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/FilipJaskovic/FilipJaskovic/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
