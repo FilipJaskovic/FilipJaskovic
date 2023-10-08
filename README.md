@@ -1,4 +1,9 @@
-<p align="left">- 🔭 I’m currently working on a paper<br>- 🌱 I’m currently learning string theory<br>- 💬 Ask me about Mathematics, Physics, Ai or Programming<br>- ⚡ Fun fact:</p>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Filip+Jaskovic!;" />
+</h1>
+<p align="left">- 🔭 I’m currently working on a paper<br>- 🌱 I’m currently learning string theory<br>- 💬 Ask me about Mathematics, Physics, Ai or Programming<br>- ⚡ Fun fact: The sum of the series $$\zeta(-1) = \sum_{n=1}^{\infty} \frac{1}{n^{-1}}\) = \sum_{n=1}^{\infty} n\ = 1 + 2 + 3 + 4 + \dots$$</p>
 
 ###
 
