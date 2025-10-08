@@ -9,7 +9,7 @@ I am a Mathematics Student at ETH Zurich.
 
 - Interests: pure and applied mathematics, mathematical & theoretical physics, ML for science, scientific computing
 - Languages: Python, C/C++,
-- Tools: (Neo)Vim btw, 
+- Tools: neovim btw, 
 
 
 ---
